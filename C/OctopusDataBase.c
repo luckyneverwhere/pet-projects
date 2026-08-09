@@ -21,9 +21,7 @@ int main() {
     printf("Weight: %f kg\n", Manjiro.weight);
     printf("Age: %f years\n", Manjiro.age);
     printf("Year: %d\n", Manjiro.year);
-
     printf("\n");
-
     printf("Number: %d\n", Badji.number);
     printf("Name: %s\n", Badji.name);
     printf("Color: %s\n", Badji.color);
